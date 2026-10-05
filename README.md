@@ -1,11 +1,4 @@
-<!--
-  ████████╗██╗  ██╗███████╗    ██╗      █████╗ ███████╗████████╗     �███████╗███████╗
-  ╚══██╔══╝██║  ██║██╔════╝    ██║     ██╔══██╗██╔════╝╚══██╔══╝    ██╔═══██╗██╔════╝
-     ██║   ███████║█████╗      ██║     ███████║███████╗   ██║       ██║   ██║█████╗
-     ██║   ██╔══██║██╔══╝      ██║     ██╔══██║╚════██║   ██║       ██║   ██║██╔══╝
-     ██║   ██║  ██║███████╗    ███████╗██║  ██║███████║   ██║       ╚██████╔╝███████╗
-     ╚═╝   ╚═╝  ╚═╝╚══════╝    ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝        ╚═════╝ ╚══════╝
--->
+<!-- THE LAST OF US — FIREFLY PROFILE -->
 
 <div align="center">
 
@@ -29,7 +22,6 @@
 
 <br/>
 
-<!-- Torn paper / infected texture feel -->
 > *"I struggled for a long time with survivin'.*
 > *And you... No matter what, you keep finding something to fight for."*
 
@@ -42,13 +34,13 @@
 ```
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│   CALLSIGN  :  [your-username]                          │
-│   FACTION   :  The Fireflies 🦟                         │
-│   BASE CAMP :  [Your City / Country]                    │
-│   SPECIALTY :  Code. Build. Survive.                    │
+│   CALLSIGN  :  Leviathan                                │
+│   FACTION   :  No one, I work alone                     │
+│   BASE CAMP :  Manila QZ                                │
+│   SPECIALTY :  All around Utility, I adapt.             │
 │   STATUS    :  ██████████░░░  MOSTLY HUMAN              │
 │                                                         │
-│   "Light a fire in the dark."                           │
+│   "I never believed in luck, I just believe in myself"  │
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -128,13 +120,17 @@ TOOLS:
 ```
 [ ACTIVE OBJECTIVE ]
 
-▸ Building something worth fighting for...
-▸ Learning everyday — the infected don't stop, neither do I
-▸ Open to collaboration — the stronger the group, the further we go
+▸ To Guide Future Programmers
+▸ To Create Useful and Meaningful Applications for This... Dull World
+▸ To Master Computer Science
+▸ To Become an M.D. Specializing in Emergency Medicine
+▸ To Build Technology That Helps People Survive, Adapt, and Carry On
 
 [ SIDE QUESTS ]
-◦ Exploring AI / ML territory — uncharted but promising
-◦ Contributing to open source — leaving supplies for the next survivor
+▸ 🇬🇧 United Kingdom .......... PRIORITY
+▸ 🇨🇦 Canada .................. LOCKED
+▸ 🇪🇺 Europe .................. DISCOVER
+▸ 🌎 The Rest of the World ... EVENTUALLY
 ```
 
 <br/>
@@ -142,15 +138,15 @@ TOOLS:
 ---
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
+**╔══════════════════════════════════════════════════════════════╗
+║                                                               ║
 ║   FIREFLY MOTTO:  "When you're lost in the darkness...       ║
 ║                    look for the light."                      ║
 ║                                                              ║
-║   VISITOR COUNT  :  [ loading... ]                          ║
-║   LAST BROADCAST :  still transmitting                      ║
+║   VISITOR COUNT  :  [ loading... ]                           ║
+║   LAST BROADCAST :  ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=&style=flat-square)                     ║
 ║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╚══════════════════════════════════════════════════════════════╝**
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2d5a27,1a3d14,4a7c3f&height=80&section=footer" />
